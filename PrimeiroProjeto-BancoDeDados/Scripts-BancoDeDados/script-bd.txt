@@ -1,0 +1,32 @@
+
+--Caminho de conexão FIXO 
+
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\BancoEscola.mdf";Integrated Security=True
+
+
+--- Caminho de conexão dinamicamente 
+
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\BancoEscola.mdf;Integrated Security=True;Connect Timeout=30
+
+
+---Criando as tabelas do banco de dados --
+
+CREATE TABLE [dbo].[Alunos]
+(
+	[RA] INT NOT NULL PRIMARY KEY IDENTITY, 
+    	[Nome] VARCHAR(30) NOT NULL, 
+    	[Email] VARCHAR(20) NULL
+)
+
+CREATE TABLE [dbo].[Table]
+(
+	[RM] INT NOT NULL PRIMARY KEY IDENTITY, 
+    	[nomeProfessor] VARCHAR(30) NULL
+)
+
+CREATE TABLE [dbo].[Disciplina_cursada_aluno] (
+    [sigla_disciplina] VARCHAR (5)  NOT NULL,
+    [nomeDisciplina]   VARCHAR (30) NOT NULL,
+    [semestre]         INT          NOT NULL,
+    PRIMARY KEY CLUSTERED ([sigla_disciplina] ASC)
+);

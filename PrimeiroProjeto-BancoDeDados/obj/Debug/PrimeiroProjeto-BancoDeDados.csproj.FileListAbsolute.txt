@@ -1,0 +1,11 @@
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\obj\Debug\PrimeiroProjeto-BancoDeDados.csprojAssemblyReference.cache
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\obj\Debug\PrimeiroProjeto_BancoDeDados.Form1.resources
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\obj\Debug\PrimeiroProjeto_BancoDeDados.Properties.Resources.resources
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\obj\Debug\PrimeiroProjeto-BancoDeDados.csproj.GenerateResource.cache
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\obj\Debug\PrimeiroProjeto-BancoDeDados.csproj.CoreCompileInputs.cache
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\obj\Debug\PrimeiroProjeto-BancoDeDados.exe
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\obj\Debug\PrimeiroProjeto-BancoDeDados.pdb
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\PrimeiroProjeto-BancoDeDados.exe.config
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\PrimeiroProjeto-BancoDeDados.exe
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\PrimeiroProjeto-BancoDeDados.pdb
+D:\Projetos C-Sharp\PrimeiroProjeto-BancoDeDados\obj\Debug\PrimeiroProjeto_BancoDeDados.login.resources
