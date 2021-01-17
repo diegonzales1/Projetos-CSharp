@@ -1,0 +1,47 @@
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe.config
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.pdb
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csprojAssemblyReference.cache
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Menu.resources
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Properties.Resources.resources
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.GenerateResource.cache
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.CoreCompileInputs.cache
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.exe
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.pdb
+H:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Bicicleteria1.resources
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe.config
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.pdb
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csprojAssemblyReference.cache
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Bicicleteria1.resources
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Menu.resources
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Properties.Resources.resources
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.GenerateResource.cache
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.CoreCompileInputs.cache
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.exe
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.pdb
+F:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.ConcessionariaB.resources
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csprojAssemblyReference.cache
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.BicicleteriaA.resources
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.ConcessionariaB.resources
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Menu.resources
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Properties.Resources.resources
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.GenerateResource.cache
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.CoreCompileInputs.cache
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.exe
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.pdb
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe.config
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe
+G:\PROJETOS\MeusProjetos\Projetos-em-C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.pdb
+D:\Projetos C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe.config
+D:\Projetos C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.exe
+D:\Projetos C-Sharp\ListaDeExercicios\bin\Debug\ListaDeExercicios.pdb
+D:\Projetos C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csprojAssemblyReference.cache
+D:\Projetos C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.BicicleteriaA.resources
+D:\Projetos C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.ConcessionariaB.resources
+D:\Projetos C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Menu.resources
+D:\Projetos C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.Properties.Resources.resources
+D:\Projetos C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.GenerateResource.cache
+D:\Projetos C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.csproj.CoreCompileInputs.cache
+D:\Projetos C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.exe
+D:\Projetos C-Sharp\ListaDeExercicios\obj\Debug\ListaDeExercicios.pdb

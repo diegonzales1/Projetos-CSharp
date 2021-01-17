@@ -1,0 +1,4 @@
+CREATE TABLE [dbo].[Paciente]
+(
+	[nome] char(30) NULL PRIMARY KEY
+)

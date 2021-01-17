@@ -1,0 +1,12 @@
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\bin\Debug\BD_AVALIACAO.mdf
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\bin\Debug\BD_AVALIACAO_log.ldf
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\bin\Debug\ClaytonFelipe-DiegoGonzales.exe.config
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\bin\Debug\ClaytonFelipe-DiegoGonzales.exe
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\bin\Debug\ClaytonFelipe-DiegoGonzales.pdb
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\obj\Debug\ClaytonFelipe-DiegoGonzales.csprojAssemblyReference.cache
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\obj\Debug\ClaytonFelipe_DiegoGonzales.Form1.resources
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\obj\Debug\ClaytonFelipe_DiegoGonzales.Properties.Resources.resources
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\obj\Debug\ClaytonFelipe-DiegoGonzales.csproj.GenerateResource.cache
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\obj\Debug\ClaytonFelipe-DiegoGonzales.csproj.CoreCompileInputs.cache
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\obj\Debug\ClaytonFelipe-DiegoGonzales.exe
+D:\Projetos C-Sharp\Projetos-CSharp\ClaytonFelipe-DiegoGonzales\obj\Debug\ClaytonFelipe-DiegoGonzales.pdb
